@@ -1,0 +1,13 @@
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Application.deps.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Application.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Application.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.csproj.AssemblyReference.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.AssemblyInfo.cs
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.sourcelink.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\refint\Ordering.Application.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\ref\Ordering.Application.dll
