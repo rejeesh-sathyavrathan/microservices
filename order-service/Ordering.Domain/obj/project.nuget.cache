@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Um5YQV19Z30=",
+  "dgSpecHash": "cvMVY1Hv1n8=",
   "success": true,
-  "projectFilePath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
+  "projectFilePath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

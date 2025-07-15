@@ -1,0 +1,6 @@
+# Ignore all exe and dll files
+*.exe
+*.dll
+*.pdb
+/order-service/Ordering.API/bin
+/order-service/Ordering.API/obj

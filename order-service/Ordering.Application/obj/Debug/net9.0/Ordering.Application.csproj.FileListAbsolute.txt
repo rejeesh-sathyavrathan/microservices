@@ -11,3 +11,10 @@ C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\ob
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\refint\Ordering.Application.dll
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.Application.pdb
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\ref\Ordering.Application.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Domain.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Infrastructure.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Infrastructure.Interface.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Domain.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Infrastructure.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\bin\Debug\net9.0\Ordering.Infrastructure.Interface.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Application\obj\Debug\net9.0\Ordering.50CBBEA9.Up2Date

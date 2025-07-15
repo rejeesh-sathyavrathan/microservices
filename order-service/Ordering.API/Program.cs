@@ -1,6 +1,7 @@
-using Ordering.Application.Abstractions;
-using Ordering.Application.Orders.Commands;
+using Ordering.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
+using Ordering.Infrastructure.Interface.Repositories;
+using Ordering.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,15 +9,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
-// Register MediatR
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<Ordering.Application.Orders.Commands.AddOrderCommand>());
-
 // Register OrdersDbContext with PostgreSQL
 builder.Services.AddDbContext<OrdersDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("OrdersDb")));
-
+    
 // Register repository
 builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
+// Register MediatR
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<Ordering.Application.Orders.Commands.AddOrderCommand>());
 
 var app = builder.Build();
 

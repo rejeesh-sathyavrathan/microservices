@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2jbk5kkcRU=",
+  "dgSpecHash": "PxI55MJXuZ4=",
   "success": true,
-  "projectFilePath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
+  "projectFilePath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rsathyavrathan\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\rsathyavrathan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
@@ -32,9 +32,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.0.0 was resolved.",
-      "projectPath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
+      "projectPath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
+      "filePath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Application\\Ordering.Application.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"

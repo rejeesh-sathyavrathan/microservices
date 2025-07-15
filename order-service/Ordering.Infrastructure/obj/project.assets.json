@@ -921,6 +921,19 @@
         "runtime": {
           "bin/placeholder/Ordering.Domain.dll": {}
         }
+      },
+      "Ordering.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Ordering.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Ordering.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ordering.Infrastructure.Interface.dll": {}
+        }
       }
     }
   },
@@ -2788,13 +2801,19 @@
       "type": "project",
       "path": "../Ordering.Domain/Ordering.Domain.csproj",
       "msbuildProject": "../Ordering.Domain/Ordering.Domain.csproj"
+    },
+    "Ordering.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Ordering.Infrastructure.Interface/Ordering.Infrastructure.Interface.csproj",
+      "msbuildProject": "../Ordering.Infrastructure.Interface/Ordering.Infrastructure.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore.Design >= 9.0.7",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.4",
-      "Ordering.Domain >= 1.0.0"
+      "Ordering.Domain >= 1.0.0",
+      "Ordering.Infrastructure.Interface >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2829,8 +2848,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {
-              "projectPath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj"
+            "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {
+              "projectPath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj"
+            },
+            "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Infrastructure.Interface\\Ordering.Infrastructure.Interface.csproj": {
+              "projectPath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Infrastructure.Interface\\Ordering.Infrastructure.Interface.csproj"
             }
           }
         }

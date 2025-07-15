@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {}
+    "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {
+    "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
+        "projectUniqueName": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
         "projectName": "Ordering.Domain",
-        "projectPath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
+        "projectPath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\Ordering.Domain.csproj",
         "packagesPath": "C:\\Users\\rsathyavrathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\obj\\",
+        "outputPath": "c:\\Rejeesh\\RnD\\microservices\\microservices\\order-service\\Ordering.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

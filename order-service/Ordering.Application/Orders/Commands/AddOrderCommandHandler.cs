@@ -2,7 +2,7 @@
 
 using MediatR;
 using Ordering.Domain.Entities;
-using Ordering.Application.Abstractions;
+using Ordering.Infrastructure.Interface.Repositories;
 
 namespace Ordering.Application.Orders.Commands
 {

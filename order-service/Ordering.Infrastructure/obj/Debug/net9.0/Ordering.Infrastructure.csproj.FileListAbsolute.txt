@@ -4,3 +4,17 @@ C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.AssemblyInfo.cs
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.sourcelink.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.deps.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.runtimeconfig.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Domain.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.Interface.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Domain.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\bin\Debug\net9.0\Ordering.Infrastructure.Interface.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.7AF05425.Up2Date
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\refint\Ordering.Infrastructure.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\Ordering.Infrastructure.genruntimeconfig.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure\obj\Debug\net9.0\ref\Ordering.Infrastructure.dll

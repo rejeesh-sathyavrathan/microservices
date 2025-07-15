@@ -13,6 +13,8 @@ Create an ordering service following clean architecture and domain driven design
         - Technology: .net core 9 dll
         - Uses MediatR and implements CQRS pattern
         - Uses Repository pattern to connect to repository
+    - Ordering.Infrastructure.Interface
+        - Define all repository interface in this project
     - Ordering.Infrastructure
         - It’s here that the application layer’s contracts find their concrete implementations, ensuring seamless database interactions and external communications.
         - Technology: .net core 9 dll

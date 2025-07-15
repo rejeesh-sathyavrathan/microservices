@@ -1,0 +1,16 @@
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\bin\Debug\net9.0\Ordering.Infrastructure.Interface.deps.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\bin\Debug\net9.0\Ordering.Infrastructure.Interface.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\bin\Debug\net9.0\Ordering.Infrastructure.Interface.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\bin\Debug\net9.0\Ordering.Domain.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\bin\Debug\net9.0\Ordering.Domain.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.AssemblyInfo.cs
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.sourcelink.json
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.B1EE1F25.Up2Date
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\refint\Ordering.Infrastructure.Interface.dll
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\Ordering.Infrastructure.Interface.pdb
+C:\Rejeesh\RnD\microservices\microservices\order-service\Ordering.Infrastructure.Interface\obj\Debug\net9.0\ref\Ordering.Infrastructure.Interface.dll
